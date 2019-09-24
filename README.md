@@ -1,6 +1,8 @@
-### About Me
+# About Me
 
-## Chun-Pin Chang 張峻賓
+## Introduction
+* Name: 張峻賓 Chun-Pin Chang
+* E-mail: ice123580629@gmail.com
 
 ## Skills
 
