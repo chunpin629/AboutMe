@@ -32,6 +32,6 @@
   * 使用Vue.js框架
   * Vue CLI建構專案
   * Vue Router實現SPA
-  * Vuex建立一個store，實現conpoments之間的溝通
+  * Vuex建立store，實現components之間的溝通
   * Bootstrap排版，實現RWD網頁
  
