@@ -23,15 +23,15 @@
 
 ## Works
 * [食譜搜尋頁面](https://determined-archimedes-060e8f.netlify.com/)
-  * 使用jQuery語法
-  * Bootstrap排版，實現RWD網頁
-  * 串接API，從[Food2Fork](https://www.food2fork.com/)取得食譜資料
-  * 使用localStorage存放喜愛的食譜
+  * 使用 jQuery 語法
+  * Bootstrap 排版，實現 RWD 網頁
+  * 串接 API，從 Edamam 取得食譜資料
+  * 使用 localStorage 存放喜愛的食譜
 
 * [購物頁面](http://chunpin-vuejs.s3-website-ap-northeast-1.amazonaws.com/)
-  * 使用Vue.js框架
-  * Vue CLI建構專案
-  * Vue Router實現SPA
-  * Vuex建立store，實現components之間的溝通
-  * Bootstrap排版，實現RWD網頁
+  * 使用 Vue.js 框架
+  * Vue CLI 建構專案
+  * Vue Router 實現 SPA
+  * Vuex 建立 store，實現 components 之間的溝通
+  * Bootstrap 排版，實現 RWD 網頁
  
