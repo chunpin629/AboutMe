@@ -19,7 +19,7 @@
 * vuex
 
 ### Git
-* 使用Git進行版本控管
+* 使用 Git 進行版本控管
 
 ## Works
 * [食譜搜尋頁面](https://determined-archimedes-060e8f.netlify.com/)
