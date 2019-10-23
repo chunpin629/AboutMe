@@ -25,7 +25,7 @@
 * [食譜搜尋頁面](https://determined-archimedes-060e8f.netlify.com/)
   * 使用 jQuery 語法
   * Bootstrap 排版，實現 RWD 網頁
-  * 串接 API，從 Edamam 取得食譜資料
+  * 串接 API，從 [Edamam](https://www.edamam.com) 取得食譜資料
   * 使用 localStorage 存放喜愛的食譜
 
 * [購物頁面](http://chunpin-vuejs.s3-website-ap-northeast-1.amazonaws.com/)
